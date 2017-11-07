@@ -10,7 +10,7 @@ public class NullCheck {
 		
 		System.out.println("updated");
 		System.out.println("updating1");
-
+		System.out.println("updating 2");
 
 	}
 
