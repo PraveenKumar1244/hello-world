@@ -9,6 +9,8 @@ public class NullCheck {
 		System.out.println(Integer.parseInt(s));
 		
 		System.out.println("updated");
+		System.out.println("updating1");
+
 
 	}
 
