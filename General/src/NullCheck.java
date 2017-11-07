@@ -7,6 +7,8 @@ public class NullCheck {
 		String s = null;
 		
 		System.out.println(Integer.parseInt(s));
+		
+		System.out.println("updated");
 
 	}
 
